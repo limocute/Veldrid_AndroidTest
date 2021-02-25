@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/Test/v16
+/AndroidBase/bin/Debug
+/AndroidBase/obj
+/App1/bin/Debug
+/App1/obj
