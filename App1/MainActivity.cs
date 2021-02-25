@@ -6,7 +6,6 @@ using Android.Support.Design.Widget;
 using Android.Support.V7.App;
 using Android.Views;
 using Android.Widget;
-using AndroidBase;
 using Veldrid;
 
 namespace App1
